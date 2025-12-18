@@ -49,7 +49,7 @@ An un-resented presence, as a nectar gathering bee, less so maybe for Bummers.`,
     pathId: "wet-night",
     subheading: "The Sixth Clue",
     text: `Was a cubby hole, a place to inhale, imbibe and take a pause.
-Place has changed, friendships gained, but out lungs a lost cause.`,
+Place has changed, friendships gained, but our lungs a lost cause.`,
     backgroundImage: "/thimage.jpg",
   },
   {
