@@ -10,10 +10,10 @@ function App() {
 
       {/* This route handles the base URL. 
           It automatically redirects the user to the first clue. */}
-      <Route path="/" element={<Navigate to="/clue/jalebi" replace />} />
+      <Route path="/" element={<Navigate to="/clue/dml" replace />} />
 
       {/* A catch-all for any other undefined URL, redirecting to the first clue. */}
-      <Route path="*" element={<Navigate to="/clue/jalebi" replace />} />
+      <Route path="*" element={<Navigate to="/clue/dml" replace />} />
     </Routes>
   );
 }

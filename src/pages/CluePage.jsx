@@ -23,7 +23,7 @@ function CluePage() {
           <p className="clue-text">
             Sorry, there is no clue at this address.
             <br /><br />
-            <Link to="/clue/jalebi" style={{ color: '#fff' }}>Return to the first clue</Link>
+            <Link to="/clue/dml" style={{ color: '#fff' }}>Return to the first clue</Link>
           </p>
         </div>
       </div>
