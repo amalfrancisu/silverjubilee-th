@@ -7,7 +7,7 @@ export const clues = [
     pathId: "dml",
     subheading: "The First Clue",
     text: `A place vast, named after the benefactors and host of this great town where we did dwell.
-Visited maybe twice, definitely once, a robed & taselled occasion before the farewell`,
+Visited maybe twice, definitely once, a robed & taselled occasion before the farewell.`,
     backgroundImage: "/thimage.jpg",
   },
   {
@@ -15,7 +15,7 @@ Visited maybe twice, definitely once, a robed & taselled occasion before the far
     pathId: "sabka-katega",
     subheading: "The Second Clue",
     text: `A place of sharing and celebration, the after hours, of banter and jest.
-Meagre, maybe, the price of sustenance, but at the cost of rest`,
+Meagre, maybe, the price of sustenance, but at the cost of rest.`,
     backgroundImage: "/thimage.jpg",
   },
   {
@@ -23,7 +23,7 @@ Meagre, maybe, the price of sustenance, but at the cost of rest`,
     pathId: "gbm-dismissed",
     subheading: "The Third Clue",
     text: `Folks much older, maybe richer, however still hungry for the rote, the badge and learning.
-On campus for a few days, their dwelling much nicer, after all the company is paying`,
+On campus for a few days, their dwelling much nicer, after all the company is paying.`,
     backgroundImage: "/thimage.jpg",
   },
   {
@@ -71,17 +71,10 @@ Witnessed the running exploits of a shepherd (my bosomy shepherdess, more like i
   {
     id: 9,
     pathId: "strike",
-    subheading: "The Ninth Clue",
+    subheading: "The Final Clue",
     text: `Maybe an Ent* wandered afar, a solitary timbered axis, famous today musically even, but for decades welcoming,
 And sheltered XLers, Waiting for placements, waiting for mates, even waiting occasionally to be dunked unknowing
 *in the land where the shadows lie...in the darkness bind them...one to rule them all.`,
-    backgroundImage: "/thimage.jpg",
-  },
-  {
-    id: 10,
-    pathId: "olt",
-    subheading: "The Final Clue",
-    text: "This is the placeholder text for the final clue. Edit this message in the 'src/clues.js' file.",
     backgroundImage: "/thimage.jpg",
   },
 ];
