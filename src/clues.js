@@ -5,7 +5,7 @@ export const clues = [
   {
     id: 1,
     pathId: "dml",
-    subheading: "The First Clue",
+    subheading: "The Third Clue",
     text: `A place vast, named after the benefactors and host of this great town where we did dwell.
 Visited maybe twice, definitely once, a robed & taselled occasion before the farewell.`,
     backgroundImage: "/thimage.jpg",
@@ -13,7 +13,7 @@ Visited maybe twice, definitely once, a robed & taselled occasion before the far
   {
     id: 2,
     pathId: "sabka-katega",
-    subheading: "The Second Clue",
+    subheading: "The Fifth Clue",
     text: `A place of sharing and celebration, the after hours, of banter and jest.
 Meagre, maybe, the price of sustenance, but at the cost of rest.`,
     backgroundImage: "/thimage.jpg",
@@ -21,7 +21,7 @@ Meagre, maybe, the price of sustenance, but at the cost of rest.`,
   {
     id: 3,
     pathId: "gbm-dismissed",
-    subheading: "The Third Clue",
+    subheading: "The Second Clue",
     text: `Folks much older, maybe richer, however still hungry for the rote, the badge and learning.
 On campus for a few days, their dwelling much nicer, after all the company is paying.`,
     backgroundImage: "/thimage.jpg",
@@ -29,7 +29,7 @@ On campus for a few days, their dwelling much nicer, after all the company is pa
   {
     id: 4,
     pathId: "dcp",
-    subheading: "The Fourth Clue",
+    subheading: "The First Clue",
     text: `Page turners they may not all have been, brain candy, inside the door.
 Out in the sun, eternally youthful friends, perhaps more, coz inside is a bore.`,
     backgroundImage: "/thimage.jpg",
@@ -47,7 +47,7 @@ An un-resented presence, as a nectar gathering bee, less so maybe for Bummers.`,
   {
     id: 6,
     pathId: "wet-night",
-    subheading: "The Sixth Clue",
+    subheading: "The Fourth Clue",
     text: `Was a cubby hole, a place to inhale, imbibe and take a pause.
 Place has changed, friendships gained, but our lungs a lost cause.`,
     backgroundImage: "/thimage.jpg",
@@ -55,7 +55,7 @@ Place has changed, friendships gained, but our lungs a lost cause.`,
   {
     id: 7,
     pathId: "fraxi",
-    subheading: "The Seventh Clue",
+    subheading: "The Sixth Clue",
     text: `We used these chambers to share our presentations clearly.
 But any glitches in the shared drive would cost quite dearly.`,
     backgroundImage: "/thimage.jpg",
@@ -63,7 +63,7 @@ But any glitches in the shared drive would cost quite dearly.`,
   {
     id: 8,
     pathId: "xl-meri-jaan",
-    subheading: "The Eighth Clue",
+    subheading: "The Seventh Clue",
     text: `A boozy shelter, exposed to the late night sky though, on the hallowed high plain of yore,
 Witnessed the running exploits of a shepherd (my bosomy shepherdess, more like it...) king/queen of lore.`,
     backgroundImage: "/thimage.jpg",
