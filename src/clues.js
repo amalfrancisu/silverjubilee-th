@@ -64,8 +64,10 @@ But any glitches in the shared drive would cost quite dearly.`,
     id: 8,
     pathId: "xl-meri-jaan",
     subheading: "The Seventh Clue",
-    text: `A boozy shelter, exposed to the late night sky though, on the hallowed high plain of yore,
-Witnessed the running exploits of a shepherd (my bosomy shepherdess, more like it...) king/queen of lore.`,
+    text: `This one's almost the end, so we'll make it easy, 
+A building misleadingly named after missionary 
+Of Charity, gutter mind, we are not about innuendo
+When many of us entered, it was to the sound of "man on floor"`,
     backgroundImage: "/thimage.jpg",
   },
   {
